@@ -1,0 +1,5 @@
+/target/
+/.idea/
+/network/crypto-config/peerOrganizations/
+/network_resources/
+
